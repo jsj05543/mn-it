@@ -1,3 +1,3 @@
 # mn-it
-##ホームページ
-###http://www.mn-it.net
+## ホームページ
+### http://www.mn-it.net
