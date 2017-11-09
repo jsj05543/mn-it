@@ -1,0 +1,423 @@
+/*******************************レイアウトの指定開始**************************/
+
+/*----------ページ全体の指定----------*/
+*{
+	font-family: "ＭＳ Ｐゴシック";
+	font-size: 15px;
+}
+body {
+	margin: 0;
+	padding: 0;
+	color: #333333;
+	background-repeat: repeat-x;
+	text-align:center;
+}
+
+.main {
+	width: 1000px;
+	margin: auto;
+	padding: 0;
+	text-align: center;
+	border: solid 1px Silver ;
+    
+}
+
+/*----------ヘッダー----------*/
+.header{
+	background-color:#A4D1FF;
+	background-repeat: repeat-x;
+	border-bottom: 1px solid #ccc;
+}
+
+.header table{
+	width:100%;
+	height:100%;
+}
+
+.header-left{
+	width:283px;
+	height:101px;
+}
+.logo{
+	margin:0;
+	padding:0;
+	text-align: left;
+}
+
+.header-right{
+	padding-right:5px;
+	text-align: right;
+	color: black;
+	font-size: 13px;
+	vertical-align: top;
+    background-image: url(../img/h1.jpg);
+    background-repeat: none;
+    height: 101px;
+	
+}
+
+.header-right a{
+	color:#FFFFFF;
+}
+
+.NormalBotton {
+	width:100px;
+	text-align:center;
+	padding:0px;
+	height:22px;
+}
+/*----------コンテンナー----------*/
+.container1 {
+  	text-align: center;
+  	background-color: #FFFFFF;
+  	margin: 0;
+	padding: 0;
+}
+.container1 table{
+	width:100%;
+	height:100%;
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+		
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu li{
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.menu li a{
+	display: block;
+	background-color: #A4D1FF;
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+	font-size: 16px;
+	height:30px;
+	padding-top: 8px;			
+	border:1px solid #ccc;
+	font-family: "GlimChe";	
+	
+}
+.menu li a:hover{
+	background-color: #4169E1;
+	color: #FFFF77;
+}
+.news{
+	width:500px; 
+	height:30px;
+	background-image: url(../img/m1.jpg);
+	text-align: left;
+	color:#ffffff;
+	padding-left: 25px;
+	font-weight: 900;	
+	font-size: 18px
+}
+.news_content{
+	border-bottom: 1px dotted #ccc;
+	text-align: left;
+	color:#33CCFF;
+}
+.news_content a:link{
+	color:#33CCFF;
+	text-decoration: none; 
+}
+.news_content a:visited{
+	color: #0099FF;
+    text-decoration: none;     
+}
+.news_img{
+	text-align: left; 
+	width:2px;
+	height:2px;
+	vertical-align:middle; 
+	padding-right: 15px;"
+}
+
+
+/*----------フッター----------*/
+.footer {
+	margin: 10px 0 0 1px;
+	padding: 0;
+	border-top: 1px solid #999999;
+	*margin: 0 0 0 1px;
+	margin-top: 200px;
+}
+ul#footm {
+	margin: 0;
+	padding: 10px 0 7px 0;
+	width: 100%;
+	line-height: 90%;
+}
+li.footm01 {
+	margin: 5px 0 5px 0;
+	padding: 5px 8px 0 8px;
+	display: inline;
+	line-height: 90%;
+	border-right: 1px dotted #333333;
+	border-left: 1px dotted #333333;
+	background-image: none;
+}
+li.footm02 {
+	margin: 5px 0 5px 0;
+	padding: 5px 8px 0 8px;
+	display: inline;
+	line-height: 90%;
+	border-right: 1px dotted #333333;
+	background-image: none;
+}
+.copyright {
+	background-color: #A4D1FF;
+	height: 30px;
+    vertical-align: middle;
+    padding-top: 8px;
+}
+/*----------表の要素の設定----------*/
+table.table-header {
+ 	border-collapse: collapse;
+  	border: none;
+  	table-layout:fixed;
+}
+
+table.table-header td{
+ 	background-color: lightskyblue;
+  	border: solid 1px sliver;
+  	text-align: left;
+  	font-weight: bold;
+	padding-left : 2px;
+}
+
+table.table-line {
+  	border-collapse: collapse;
+  	border: none;
+  	table-layout:fixed;
+}
+
+table.table-line td{
+  	border: solid 1px sliver;
+  	text-align: left;
+	padding-left : 2px;
+}
+
+table.table-line p{
+	width: 100%; /* IE6対策 */
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+
+/*******************************レイアウトの指定終了**************************/
+/*******************************個別の指定開始**************************/
+/*----------ログインエリア----------*/
+
+.borderTD {
+  	color: #ffffff; /* 文字の色 */
+  	background-color: #04369C; /* 背景の色 */
+  	border-style: solid; /* 枠の種類 */
+ 	border-color: #ccccff #666699 #666699 #ccccff; /* 枠の色 */
+  	border-width: 1px; /* 枠の幅 */
+}
+
+/*----------メニュー画面用----------*/
+.menu-group {
+	font-size: 18px;
+	text-decoration: none;
+	font-family: 'ＭＳ Pゴシック';
+	font-weight: bold;
+	color: #000000;
+}
+
+.menu-button1 {
+	cursor: pointer;
+	width: 400px;
+	height: 45px;
+	background-image: url(../img/menu1.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.menu-button2 {
+	cursor: pointer;
+	width: 400px;
+	height: 45px;
+	background-image: url(../img/menu2.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 20px;
+	font-weight :bold;
+}
+
+.menu-button3 {
+	cursor: pointer;
+	width: 400px;
+	height: 45px;
+	background-image: url(../img/menu3.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 20px;
+	font-weight :bold;
+}
+/*----------ツリーの設定----------*/
+#menu {
+  	float: left;
+  	margin: 0 0 -5px 0;
+  	padding: 0;
+  	width: 220px;
+  	font-family: "ＭＳ Ｐゴシック";
+  	text-align: left;
+  	letter-spacing: 1px;
+}
+
+.menulist {
+  	margin: 0 0 0px 0;
+  	padding: 0px 2px 0px 5px;
+  	width: 180px;
+  	text-align: left;
+  	cursor: pointer;
+}
+
+.menulist h2 {
+  	height: 15px;
+  	margin: 0;
+  	padding: 7px 0 4px 10px;
+  	font-size: 13px;
+  	font-family: "ＭＳ Ｐゴシック";
+  	color: #FFFFFF;
+  	background-image: url(../img/sidebar.gif);
+  	background-repeat: no-repeat;
+}
+
+.menulist a.menulist1{
+  	color: #223a70;
+  	display: block;
+  	border-right: solid 1px #dddddd;
+  	border-bottom: solid 1px #dddddd;
+  	border-left: solid 1px #dddddd;
+  	padding: 8px 4px 3px 30px;
+  	font-size: 13px;
+  	line-height: 100%;
+  	text-decoration: none;
+  	background-image: url(../img/side_menu_bg.gif);
+  	background-repeat: no-repeat;
+  	background-position-y:-5px;
+}
+
+.menulist a.menulist1:hover{
+  	color: #223a70;
+  	background-image: url(../img/side_menu_bg_hover.gif);
+  	background-repeat: no-repeat;
+}
+
+.menulist a.menulist2{
+  	color: #223a70;
+  	display: block;
+  	border-right: solid 1px #dddddd;
+  	border-bottom: solid 1px #dddddd;
+  	border-left: solid 1px #dddddd;
+  	padding: 8px 4px 3px 30px;
+  	font-size: 13px;
+  	line-height: 100%;
+  	width:142px;
+  	text-decoration: none;
+  	background-image: url(../img/side_menu_bg3_new.gif);
+  	background-repeat: no-repeat;
+  	background-position-y:-5px;
+ }
+
+.menulist a.menulist2:hover{
+  	color: #223a70;
+  	background-image: url(../img/side_menu_bg3_new_hover.gif);
+  	background-repeat: no-repeat;
+}
+/**********************************個別の指定終了*******************************/
+
+/**************整理まち***************************/
+/*----------タブ----------*/
+ul.tab {
+	margin: 0;
+	padding: 0;
+	border-bottom: 2px #ddd solid;
+}
+
+ul.tab li {
+	float: left;
+	margin: 0 0 0 2px;
+	position: relative;
+	bottom: -2px;
+	list-style-type: none;
+	border: 1px #ddd solid;
+	border-top: none;
+	border-bottom: 2px #ddd solid;
+	text-align: center;
+}
+
+ul.tab li.none {
+	border-bottom: 2px #fff solid;
+	font-weight: #000;
+}
+
+ul.tab li a {
+	color: #000;
+	display: block;
+	padding: 3px 10px 5px;
+	text-decoration: none;
+	background: #fff;
+}
+
+ul.tab li a.my-tab {
+	border-top: 1px #2384dc solid;
+	border-left: 1px #2384dc solid;
+	border-right: 1px #2384dc solid;
+	background: #2384dc;
+	color:#fff;
+}
+
+ul.tab li a.my-tab-selected {
+	position: relative;
+	background: #fff;
+	color:#000;
+}
+
+ul.tab li a:hover {
+	position: relative;
+	background: #fff;
+	color:#000;
+}
+
+.clear:after {
+    content:"";
+    display:block;
+    overflow:hidden;
+}
+
+.clear:after {
+    clear:both;
+}
+
+.clear {
+    zoom:1;
+}
+
+.flowchart-title {
+	font-size : 15px;
+	font-weight : bold;
+	color : darkblue;
+	text-align : left;
+}
+
+.row0 {
+	background:#EEFFFF
+}
+
+.row1 {
+	background:#FFFFFF
+}
