@@ -1,0 +1,33 @@
+
+/* BX Slider Overwrite */
+.bx-wrapper {
+	margin:0 auto 35px;
+	margin:0 auto 3.5rem;
+	border: 2px solid #fff;
+	border: 0.2rem solid #fff;
+}
+
+@media all and (-ms-high-contrast:none) {
+
+	.bx-wrapper li {
+		margin-right:1px;
+		left:1px;
+	}
+
+}
+
+.main_slider_one .bx-wrapper {
+	margin:0 auto 5px;
+	margin:0 auto 0.5rem;
+}
+
+.main_slider_one .bx-wrapper .bx-pager-item {
+	display:none;
+}
+
+.bx-wrapper .bx-caption span {
+	font-size:14px;
+	font-size:1.4rem;
+	padding:15px;
+	padding:1.5rem;
+}

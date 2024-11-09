@@ -1,0 +1,677 @@
+# Translation of FSVBASIC in Japanese
+# This file is distributed under the same license as the FSVBASIC package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-13 15:28+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+"Project-Id-Version: FSVBASIC 2.0\n"
+"POT-Creation-Date: \n"
+"Last-Translator: FirstServer,Inc. <info@templateking.jp>\n"
+"Language-Team: \n"
+
+msgid "A generic template that fits all kinds of business websites."
+msgstr "さまざまな企業サイトにご利用いただける汎用的なテーマです。"
+
+msgid "https://www.templateking.jp/"
+msgstr "https://www.templateking.jp/"
+
+msgid "FSVBASIC"
+msgstr "FSVベーシックデザイン"
+
+#: archive.php:35 functions.php:199
+msgid "Daily Archives : %s"
+msgstr "日別アーカイブ : %s"
+
+#: archive.php:39 functions.php:203
+msgid "Monthly Archives : %s"
+msgstr "月別アーカイブ : %s"
+
+#: archive.php:39 functions.php:203
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:43 functions.php:207
+msgid "Yearly Archives : %s"
+msgstr "年別アーカイブ : %s"
+
+#: archive.php:43 functions.php:207
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:47 functions.php:211
+msgid "Author Archives : %s"
+msgstr "作成者別アーカイブ : %s"
+
+#: archive.php:51 functions.php:233
+msgid "Category Archives : %s"
+msgstr "カテゴリー別アーカイブ : %s"
+
+#: archive.php:55 functions.php:195 search.php:27
+msgid "Search Results for : %s"
+msgstr "検索結果 : %s"
+
+#: archive.php:59 functions.php:215
+msgid "Tag Archives : %s"
+msgstr "タグ別アーカイブ : %s"
+
+#: archive.php:63
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: comments.php:33
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s への%1$s件のコメント"
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "コメント"
+
+#: comments.php:54
+msgid "Previous Comments"
+msgstr "前のコメント"
+
+#: comments.php:55
+msgid "Next Comments"
+msgstr "次のコメント"
+
+#: comments.php:91 comments.php:99
+msgid "Comments are closed."
+msgstr "現在コメントは受け付けておりません。"
+
+#: comments.php:109
+msgid "Name"
+msgstr "お名前"
+
+#: comments.php:111
+msgid "Email"
+msgstr "メールアドレス"
+
+#: comments.php:113
+msgid "Website"
+msgstr "ウェブサイトURL"
+
+#: comments.php:117
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:119
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>してください。"
+
+#: comments.php:121
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a>としてログインしています。<a href=\"%3$s\" title="
+"\"Log out of this account\">ログアウトしますか?</a>"
+
+#: content-none.php:19 functions.php:191
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "ご迷惑をおかけして申し訳ありません"
+
+#: content-none.php:23
+msgid "Nothing Found"
+msgstr "表示するページがありません"
+
+#: content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"ご指定の検索条件に合う投稿がありません。他のキーワードでもう一度検索をお試し"
+"ください。"
+
+#: content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "該当するページがみつかりません。検索をお試しください。"
+
+#: content-none.php:43
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"表示するページがありません。検索で関連する投稿が見つかるかもしれません。"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:316
+msgid "Older Posts"
+msgstr "古い記事"
+
+#: functions.php:330
+msgid "Newer Posts"
+msgstr "新しい記事"
+
+#: functions.php:356
+msgid "Sidebar Area (Left)"
+msgstr "サイドバー(左)"
+
+#: functions.php:358
+msgid ""
+"The sidebar that appears on the left of all pages. If nothing is set up, the "
+"sidebar is not displayed."
+msgstr ""
+"全ページ共通左サイドバーに表示するウィジェットエリアです。何も設定されていな"
+"い場合は、左サイドバーは表示されません。"
+
+#: functions.php:366
+msgid "Sidebar Area (Right)"
+msgstr "サイドバー(右)"
+
+#: functions.php:368
+msgid ""
+"The sidebar that appears on the right of all pages. If nothing is set up, "
+"the sidebar is not displayed."
+msgstr ""
+"全ページ共通右サイドバーに表示するウィジェットエリアです。何も設定されていな"
+"い場合は、右サイドバーは表示されません。"
+
+#: functions.php:376
+msgid "Footer Area (Left)"
+msgstr "フッター(左)"
+
+#: functions.php:378
+msgid ""
+"The area that appears on the left of the footer. It nothing is set up, the "
+"list of categories is displayed."
+msgstr ""
+"全ページ共通フッター左側に表示するウィジェットエリアです。何も設定されていな"
+"い場合は、カテゴリー一覧が表示されます。"
+
+#: functions.php:386
+msgid "Footer Area (Center)"
+msgstr "フッター(中央)"
+
+#: functions.php:388
+msgid ""
+"The area that appears on the center of the footer. It nothing is set up, the "
+"list of pages is displayed."
+msgstr ""
+"全ページ共通フッター中央に表示するウィジェットエリアです。何も設定されていな"
+"い場合は、固定ページ一覧が表示されます。"
+
+#: functions.php:396
+msgid "Footer Area (Right)"
+msgstr "フッター(右)"
+
+#: functions.php:398
+msgid ""
+"The area that appears on the right of the footer. It nothing is set up, the "
+"latest posts are displayed."
+msgstr ""
+"全ページ共通フッター右側に表示するウィジェットエリアです。何も設定されていな"
+"い場合は、最近の投稿が表示されます。"
+
+#: functions.php:406
+msgid "Top Main Area"
+msgstr "トップページ メインエリア"
+
+#: functions.php:408
+msgid ""
+"The area that contains the main menu, at the top of the page. If nothing is "
+"set up, the latest posts are automatically displayed."
+msgstr ""
+"トップページのメインエリアに表示するウィジェットエリアです。何も設定されてい"
+"ない場合は、最近の投稿が表示されます。"
+
+#: functions.php:416
+msgid "Top Sidebar Area (Left)"
+msgstr "サイドバー(左)：トップページのみ"
+
+#: functions.php:418
+msgid ""
+"The sidebar that appears on the left of the top page. If nothing is set up, "
+"this area is not displayed."
+msgstr ""
+"左サイドバーにトップページのみ表示するウィジェットエリアです。何も設定されて"
+"いない場合は、このエリアは表示されません。"
+
+#: functions.php:426
+msgid "Top Sidebar Area (Right)"
+msgstr "サイドバー(右)：トップページのみ"
+
+#: functions.php:428
+msgid ""
+"The sidebar that appears on the right of the top page. If nothing is set up, "
+"this area is not displayed."
+msgstr ""
+"右サイドバーにトップページのみ表示するウィジェットエリアです。何も設定されて"
+"いない場合は、このエリアは表示されません。"
+
+#: functions.php:452
+msgid "Textarea enclosed by a frame."
+msgstr "枠で囲まれたテキストエリア"
+
+#: functions.php:453
+msgid "Text block"
+msgstr "テキスト(枠つき)"
+
+#: functions.php:504 functions.php:621 functions.php:727
+msgid "Title:"
+msgstr "タイトル:"
+
+#: functions.php:509
+msgid "Automatically add paragraphs"
+msgstr "自動的に段落追加する"
+
+#: functions.php:527
+msgid "The list of tagged posts"
+msgstr "特定のタグがつけられた投稿を表示"
+
+#: functions.php:528
+msgid "Tagged posts"
+msgstr "タグつき投稿"
+
+#: functions.php:580
+msgid "More"
+msgstr "続き"
+
+#: functions.php:624
+msgid "Tag:"
+msgstr "タグ:"
+
+#: functions.php:626 functions.php:739
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: functions.php:648
+msgid "The list of page categories"
+msgstr "特定のカテゴリーに属する投稿を表示"
+
+#: functions.php:649
+msgid "Category list"
+msgstr "カテゴリー記事一覧"
+
+#: functions.php:730
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: functions.php:733
+msgid "Display post date?"
+msgstr "投稿日を表示しますか ?"
+
+#: functions.php:736
+msgid "Category:"
+msgstr "カテゴリー"
+
+#: functions.php:777
+msgid "Pingback : "
+msgstr "ピンバック : "
+
+#: functions.php:777 functions.php:813 image.php:46 page-sitemap.php:35
+#: page.php:33 single.php:35
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:799
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:802
+msgid "Post author"
+msgstr "投稿者"
+
+#: functions.php:808
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは管理者の承認待ちです。"
+
+#: functions.php:823
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:854
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: functions.php:860
+msgid ""
+"<p class=\"meta-postdate\">%3$s</p>%1$s<div class=\"clear\"></div>%2$s<span "
+"class=\"by-author\"> by %4$s.</span><div class=\"clear\"></div>"
+msgstr ""
+"<p class=\"meta-postdate\">%3$s</p>%1$s<div class=\"clear\"></div>%2$s<span "
+"class=\"by-author\"> by %4$s.</span><div class=\"clear\"></div>"
+
+#: functions.php:862
+msgid ""
+"<p class=\"meta-postdate\">%3$s</p>%1$s<span class=\"by-author\"> by %4$s.</"
+"span><div class=\"clear\"></div>"
+msgstr ""
+"<p class=\"meta-postdate\">%3$s</p>%1$s<span class=\"by-author\"> by %4$s.</"
+"span><div class=\"clear\"></div>"
+
+#: functions.php:864
+msgid ""
+"<p class=\"meta-postdate\">%3$s</p><span class=\"by-author\"> by %4$s.</"
+"span><div class=\"clear\"></div>"
+msgstr ""
+"<p class=\"meta-postdate\">%3$s</p><span class=\"by-author\"> by %4$s.</"
+"span><div class=\"clear\"></div>"
+
+#: header.php:106
+msgid "Sitemap"
+msgstr "サイトマップ"
+
+#: header.php:107
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: header.php:125
+msgid "Skip to content"
+msgstr "コンテンツに移動"
+
+#: home.php:55 sidebar-footer.php:69
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: home.php:78 sidebar-footer.php:90
+msgid "There are currently no posts."
+msgstr "現在投稿はありません。"
+
+#: image.php:35
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\">%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">公開日時：</span><span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> | <a href=\"%3$s\" title=\"フルサイズ画像\">%4$s &times; %5$s</a> (<a "
+"href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>)"
+
+#: page-sitemap.php:3
+msgid "Sitemap Page Template"
+msgstr "テンプレート：サイトマップ"
+
+#: page-sitemap.php:5
+msgid "Template to create a sitemap page."
+msgstr "サイトマップページの作成に最適なテンプレートです。"
+
+#: page-sitemap.php:70 sidebar-footer.php:25
+msgid "Category List"
+msgstr "カテゴリー一覧"
+
+#: page-sitemap.php:76 sidebar-footer.php:47
+msgid "Page List"
+msgstr "ページ一覧"
+
+#: single.php:70
+msgid "Previous Post"
+msgstr "前の記事"
+
+#: single.php:84
+msgid "Next Post"
+msgstr "次の記事"
+
+#: theme-options.php:48
+msgid "blue"
+msgstr "青系"
+
+#: theme-options.php:52
+msgid "green"
+msgstr "緑系"
+
+#: theme-options.php:56
+msgid "orange"
+msgstr "オレンジ系"
+
+#: theme-options.php:60
+msgid "pink"
+msgstr "ピンク系"
+
+#: theme-options.php:64
+msgid "black"
+msgstr "黒系"
+
+#: theme-options.php:661
+msgid "Color Scheme"
+msgstr "カラー構成"
+
+#: theme-options.php:678
+msgid "Main Color"
+msgstr "メインカラー"
+
+#: theme-options.php:679
+msgid ""
+"Colors used in the major components.<br>Main Menu, Pager, Calendar Header "
+"etc..."
+msgstr ""
+"主要なコンポーネントで使用される色です。<br>例）メインメニュー, ページャー, "
+"カレンダーのヘッダー など"
+
+#: theme-options.php:693
+msgid "Link - Main Color"
+msgstr "リンク - 主要カラー"
+
+#: theme-options.php:694
+msgid ""
+"Colors used in link components.<br>Text Link, Main Menu Hover(for PC) etc..."
+msgstr ""
+"主要なリンクで使用される色です。<br>例）テキストリンク, メインメニューのマウ"
+"スオーバー時(PC表示) など"
+
+#: theme-options.php:708
+msgid "Link - Sub Color"
+msgstr "リンク - サブカラー"
+
+#: theme-options.php:709
+msgid ""
+"Colors used in mainly link components.<br>Main Menu Hover(for Smart "
+"Devices), Sub Menu Hover, Form Components Background etc..."
+msgstr ""
+"その他のリンクで使用される色です。<br>例）メインメニューのマウスオーバー時(PC"
+"以外の表示), サブメニューのマウスオーバー時, フォーム要素の背景 など"
+
+#: theme-options.php:723
+msgid "Background - Footer Widget Area"
+msgstr "背景色 - フッターウィジェットエリア"
+
+#: theme-options.php:724
+msgid ""
+"Colors used in Footer Widget Area and other.<br>Framed Text Background, "
+"Table Header Cell etc..."
+msgstr ""
+"フッターウィジェットエリアの背景色やそれ以外の要素の背景などで使用される色で"
+"す。<br>例）枠付きテキストエリア, テーブルのヘッダーセル など"
+
+#: theme-options.php:738
+msgid "Text - Main Color"
+msgstr "テキスト - 主要カラー"
+
+#: theme-options.php:739
+msgid "Colors used in the major sentence."
+msgstr "主要な文章、タイトル、各種テキストで使用される色です。"
+
+#: theme-options.php:753
+msgid "Text - Sub Color"
+msgstr "テキスト - サブカラー"
+
+#: theme-options.php:754
+msgid ""
+"Text color to match the main color.<br>Main Menu Text,Pager Arrow Icon etc..."
+msgstr ""
+"その他のテキストで使用される色です。<br>例）メインメニューの文字色, ペー"
+"ジャーの矢印 など"
+
+#: theme-options.php:769
+msgid "Line & Icon Color"
+msgstr "ライン/アイコンカラー"
+
+#: theme-options.php:770
+msgid ""
+"Colors used in list mark icons and other.<br>Comments Icon, Tag Cloud Icon, "
+"Content Title & List Underline, Table Line etc..."
+msgstr ""
+"タイトルのラインやリストアイコンなどで使用される色です。<br>例）コメント/タグ"
+"クラウドなどのアイコン, ページのタイトル下線 など"
+
+#: theme-options.php:777
+msgid "Logo"
+msgstr "ロゴ"
+
+#: theme-options.php:790
+msgid "Image Logo"
+msgstr "ロゴ画像"
+
+#: theme-options.php:791
+msgid "Images recommends 300 pixels or less width."
+msgstr "ロゴ画像は 幅300pixel 以下を推奨しています。"
+
+#: theme-options.php:799
+msgid "Header Text Area"
+msgstr "ヘッダーテキストエリア"
+
+#: theme-options.php:812
+msgid "Header Sitemap Link URL"
+msgstr "サイトマップ リンクURL"
+
+#: theme-options.php:813 theme-options.php:830 theme-options.php:903
+#: theme-options.php:953 theme-options.php:1003 theme-options.php:1053
+#: theme-options.php:1102
+msgid "Paste or Type URL."
+msgstr "URLをペーストするか直接入力してください。"
+
+#: theme-options.php:829
+msgid "Contact Page Link URL"
+msgstr "お問い合わせページ リンクURL"
+
+#: theme-options.php:846
+msgid "Header Information Text (Small Size)"
+msgstr "案内文(小さな文字サイズ)"
+
+#: theme-options.php:847 theme-options.php:864 theme-options.php:1160
+#: theme-options.php:1199
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: &lt;a href=\"\" target=\"\" class=\"\" id=\"\" title="
+"\"\"&gt; &lt;br&gt; &lt;em&gt; &lt;strong&gt; &lt;span class=\"\" id=\"\" "
+"style=\"\"&gt; &lt;img src=\"\" height=\"\" width=\"\" alt=\"\"&gt;"
+msgstr ""
+"次の <abbr title=\"HyperText Markup Language\">HTML</abbr> タグと属性をご利用"
+"いただけます: &lt;a href=\"\" target=\"\" class=\"\" id=\"\" title=\"\"&gt; "
+"&lt;br&gt; &lt;em&gt; &lt;strong&gt; &lt;span class=\"\" id=\"\" style="
+"\"\"&gt; &lt;img src=\"\" height=\"\" width=\"\" alt=\"\"&gt;"
+
+#: theme-options.php:863
+msgid "Header Information Text (Large Size)"
+msgstr "案内文(大きな文字サイズ)"
+
+#: theme-options.php:873
+msgid "Slide Settings"
+msgstr "スライド設定"
+
+#: theme-options.php:886
+msgid "Slide1 Picture"
+msgstr "スライド1 画像"
+
+#: theme-options.php:887 theme-options.php:937 theme-options.php:987
+#: theme-options.php:1037 theme-options.php:1087
+msgid "Pictures must be 1200 pixels width and 300 pixels height."
+msgstr "画像は 幅1200pixel × 高さ300pixel でご用意ください。"
+
+#: theme-options.php:902
+msgid "Slide1 Link URL"
+msgstr "スライド1 リンクURL"
+
+#: theme-options.php:919
+msgid "Slide1 Caption"
+msgstr "スライド1 注釈"
+
+#: theme-options.php:920 theme-options.php:970 theme-options.php:1020
+#: theme-options.php:1070 theme-options.php:1120 theme-options.php:1143
+msgid ""
+"You may not use <abbr title=\"HyperText Markup Language\">HTML</abbr> tags."
+msgstr ""
+"<abbr title=\"HyperText Markup Language\">HTML</abbr>タグはご利用いただけませ"
+"ん。"
+
+#: theme-options.php:936
+msgid "Slide2 Picture"
+msgstr "スライド2 画像"
+
+#: theme-options.php:952
+msgid "Slide2 Link URL"
+msgstr "スライド2 リンクURL"
+
+#: theme-options.php:969
+msgid "Slide2 Caption"
+msgstr "スライド2 注釈"
+
+#: theme-options.php:986
+msgid "Slide3 Picture"
+msgstr "スライド3 画像"
+
+#: theme-options.php:1002
+msgid "Slide3 Link URL"
+msgstr "スライド3 リンクURL"
+
+#: theme-options.php:1019
+msgid "Slide3 Caption"
+msgstr "スライド3 注釈"
+
+#: theme-options.php:1036
+msgid "Slide4 Picture"
+msgstr "スライド4 画像"
+
+#: theme-options.php:1052
+msgid "Slide4 Link URL"
+msgstr "スライド4 リンクURL"
+
+#: theme-options.php:1069
+msgid "Slide4 Caption"
+msgstr "スライド4 注釈"
+
+#: theme-options.php:1086
+msgid "Slide5 Picture"
+msgstr "スライド5 画像"
+
+#: theme-options.php:1102
+msgid "Slide5 Link URL"
+msgstr "スライド5 リンクURL"
+
+#: theme-options.php:1119
+msgid "Slide5 Caption"
+msgstr "スライド5 注釈"
+
+#: theme-options.php:1129
+msgid "Welcome Message"
+msgstr "ウェルカムメッセージ"
+
+#: theme-options.php:1142
+msgid "Welcome Message Title"
+msgstr "タイトル"
+
+#: theme-options.php:1159
+msgid "Welcome Message Text"
+msgstr "表示するテキスト"
+
+#: theme-options.php:1176
+msgid "Welcome Message Background Color"
+msgstr "背景色"
+
+#: theme-options.php:1177
+msgid ""
+"Select color of the background dot pattern. It will be a little dark shades "
+"in Firefox."
+msgstr ""
+"背景のドットパターンの色を設定します。Firefoxでは若干暗めの色合いになります。"
+
+#: theme-options.php:1185
+msgid "Footer"
+msgstr "フッター"
+
+#: theme-options.php:1198
+msgid "Footer Text"
+msgstr "フッター著作権表示"

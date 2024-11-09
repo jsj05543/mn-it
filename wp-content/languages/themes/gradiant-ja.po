@@ -1,0 +1,747 @@
+# Translation of Themes - Gradiant in Japanese
+# This file is distributed under the same license as the Themes - Gradiant package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-19 01:05:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Gradiant\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "A powerful next generation theme for upcoming generations and traditional UI that focuses on the color combinations of solid and gradient colors, along with cool animations and attractive features. It's perfect for any type of business. View the demo of Gradiant Pro https://www.nayrathemes.com/demo/pro/?theme=gradiant"
+msgstr "Gradiant は柔軟性があり、超高速で、簡単にカスタマイズでき、軽量で、モダンな多目的テーマです。Gradiant には、すばらしいサイトを構築するために必要なものがすべて付属しており、あらゆるタイプのビジネスに最適です。 Gradiant Pro のデモを見る: https://www.nayrathemes.com/demo/pro/?theme=gradiant"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Gradiant"
+msgstr "Gradiant"
+
+#: inc/extras.php:268
+msgid "Get started with Gradiant"
+msgstr "Gradient を使い始める"
+
+#: inc/extras.php:266
+msgid "Install and activate <strong>Clever Fox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "テーマのすべての機能を最大限活用するには、<strong>Clever Fox</strong> プラグインをインストールし有効化してください。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:262
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "ようこそ！ %1$s を選んで頂き有難うございます！"
+
+#: inc/extras.php:255
+msgid "Theme Screenshot"
+msgstr "テーマのスクリーンショット"
+
+#: inc/customize/gradiant-premium.php:36
+msgid "Show Some Love"
+msgstr "応援してください"
+
+#: inc/customize/gradiant-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Free 版と Pro 版を比較"
+
+#: inc/customize/gradiant-premium.php:30
+msgid "Get Support"
+msgstr "サポートに連絡"
+
+#: inc/customize/gradiant-premium.php:28
+msgid "View Documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: inc/customize/gradiant-premium.php:12 inc/customize/gradiant-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "Pro へアップグレード"
+
+#: woocommerce/content-product.php:52
+msgid "out of 5"
+msgstr "点中5"
+
+#: woocommerce/content-product.php:52
+msgid "Rated %s out of 5"
+msgstr "定格%s点中5"
+
+#: woocommerce/content-product.php:33
+msgid "Sale"
+msgstr "販売"
+
+#: woocommerce/cart/mini-cart.php:104 woocommerce/cart/mini-cart.php:218
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:212
+msgid "Checkout"
+msgstr "チェックアウト"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:171
+msgid "Remove this item"
+msgstr "この項目を削除"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:146
+msgid "Total:"
+msgstr "合計:"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: template-parts/sections/section-breadcrumb.php:45
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: template-parts/sections/section-breadcrumb.php:41
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: template-parts/sections/section-breadcrumb.php:37
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+#: template-parts/sections/section-breadcrumb.php:33
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#: template-parts/sections/section-breadcrumb.php:29
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: template-parts/sections/section-breadcrumb.php:25
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: template-parts/sections/section-breadcrumb.php:21
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: template-parts/sections/section-breadcrumb.php:7
+msgid "breadcrumb-effect-active"
+msgstr "breadcrumb-effect-active"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:37
+#: template-parts/content/content-search.php:37
+#: template-parts/sections/section-blog.php:65
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "探しているものが見つからないようです。 おそらく検索が役立つです。"
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "探しているものが見つからないようです。 おそらく検索が役立つでしょう。"
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできていますか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> にコメントを残す"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/sidebar/sidebar.php:71
+msgid "This Widget area for Info"
+msgstr "情報のためのこのウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:69
+msgid "Info Widget Area"
+msgstr "情報ウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:61
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce のウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:59
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:51
+msgid "The Footer Widget Area 3"
+msgstr "フッターウィジェットエリア 3"
+
+#: inc/sidebar/sidebar.php:49
+msgid "Footer 3"
+msgstr "フッター 3"
+
+#: inc/sidebar/sidebar.php:41
+msgid "The Footer Widget Area 2"
+msgstr "フッターウィジェットエリア 2"
+
+#: inc/sidebar/sidebar.php:39
+msgid "Footer 2"
+msgstr "フッター2"
+
+#: inc/sidebar/sidebar.php:31
+msgid "The Footer Widget Area 1"
+msgstr "フッターウィジェットエリア 1"
+
+#: inc/sidebar/sidebar.php:29
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: inc/sidebar/sidebar.php:20
+msgid "The Primary Widget Area"
+msgstr "主要なウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: inc/extras.php:147 inc/extras.php:213 woocommerce/cart/mini-cart.php:25
+#: woocommerce/cart/mini-cart.php:139
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:112
+msgid "Type To Search"
+msgstr "入力して検索"
+
+#: inc/extras.php:111
+msgid "Search for:"
+msgstr "検索:"
+
+#: inc/extras.php:110
+msgid "Site Search"
+msgstr "サイト検索"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:919
+msgid "Service 5"
+msgstr "サービス 5"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:915
+msgid "Service 4"
+msgstr "サービス 4"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:911
+msgid "Service 3"
+msgstr "サービス 3"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:907
+msgid "Service 2"
+msgstr "サービス 2"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:903
+msgid "Service 1"
+msgstr "サービス 1"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:848
+#: inc/customizer-repeater/class/customizer-repeater-control.php:881
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:843
+#: inc/customizer-repeater/class/customizer-repeater-control.php:873
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:826
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:818
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:802
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:798
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:794
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:790
+msgid "Slide Align"
+msgstr "スライドの整列"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:778
+msgid "Slider Image"
+msgstr "スライダー画像"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:752
+#: inc/customizer-repeater/class/customizer-repeater-control.php:781
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:714
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:697
+msgid "Open link in new tab:"
+msgstr "新しいタブで開く"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "skill"
+msgstr "スキル"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:491
+msgid "Delete %s"
+msgstr "%s を削除"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:475
+#: inc/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Designation"
+msgstr "肩書き"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:467
+#: inc/customizer-repeater/class/customizer-repeater-control.php:640
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:457
+#: inc/customizer-repeater/class/customizer-repeater-control.php:524
+msgid "Color"
+msgstr "色"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:427
+#: inc/customizer-repeater/class/customizer-repeater-control.php:625
+msgid "Video Url"
+msgstr "動画URL"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:413
+#: inc/customizer-repeater/class/customizer-repeater-control.php:612
+#: inc/customizer-repeater/class/customizer-repeater-control.php:840
+#: inc/customizer-repeater/class/customizer-repeater-control.php:862
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:394
+msgid "skills"
+msgstr "スキル"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:372
+#: inc/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Subtitle 5"
+msgstr "サブタイトル 5"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/customizer-repeater/class/customizer-repeater-control.php:565
+msgid "Subtitle 4"
+msgstr "サブタイトル 4"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:356
+#: inc/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Subtitle 3"
+msgstr "サブタイトル 3"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:348
+#: inc/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Subtitle 2"
+msgstr "サブタイトル 2"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:340
+#: inc/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:45
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:40
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/customizer-notify/gradiant-customizer-notify.php:111
+msgid "Activating"
+msgstr "有効化しています"
+
+#: inc/customize/gradiant-header.php:219 inc/customize/gradiant-header.php:238
+msgid "Sticky Header"
+msgstr "上部固定のヘッダー"
+
+#: inc/customize/gradiant-header.php:206
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customize/gradiant-header.php:187
+#: inc/customizer-repeater/class/customizer-repeater-control.php:387
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/customize/gradiant-header.php:169
+#: inc/customizer-repeater/class/customizer-repeater-control.php:708
+#: inc/customizer-repeater/class/customizer-repeater-control.php:816
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customize/gradiant-header.php:129
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customize/gradiant-header.php:91
+msgid "Cart"
+msgstr "カート"
+
+#: inc/customize/gradiant-header.php:71 inc/customize/gradiant-header.php:109
+#: inc/customize/gradiant-header.php:148 inc/customize/gradiant-header.php:255
+msgid "Hide/Show"
+msgstr "非表示 / 表示"
+
+#: inc/customize/gradiant-header.php:54
+msgid "Search"
+msgstr "検索"
+
+#: inc/customize/gradiant-header.php:35
+msgid "Header Navigation"
+msgstr "ヘッダーナビゲーション"
+
+#: inc/customize/gradiant-header.php:23
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: inc/customize/gradiant-general.php:278
+msgid "Container Width"
+msgstr "コンテナの幅"
+
+#: inc/customize/gradiant-general.php:258
+msgid "Container"
+msgstr "コンテナ"
+
+#: inc/customize/gradiant-general.php:246
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/customize/gradiant-general.php:245
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/customize/gradiant-general.php:244
+msgid "Inherit"
+msgstr "継承する"
+
+#: inc/customize/gradiant-general.php:239
+msgid "Background Attachment"
+msgstr "背景の添付ファイル"
+
+#: inc/customize/gradiant-general.php:202
+msgid "Background"
+msgstr "背景"
+
+#: inc/customize/gradiant-general.php:176
+msgid "Min Height"
+msgstr "最小の高さ"
+
+#: inc/customize/gradiant-general.php:137
+msgid "Enable Water Effect on Breadcrumb?"
+msgstr "パンくずリストへの水の影響を有効にしますか？ "
+
+#: inc/customize/gradiant-general.php:116
+msgid "Hide / Show Section"
+msgstr "セクションを表示 / 非表示"
+
+#: inc/customize/gradiant-general.php:97
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customize/gradiant-general.php:77
+msgid "Breadcrumb"
+msgstr "パンくずリスト"
+
+#: inc/customize/gradiant-general.php:66
+msgid "Hide / Show Scroller"
+msgstr "スクローラーを非表示 / 表示"
+
+#: inc/customize/gradiant-general.php:47
+msgid "Scroller"
+msgstr "スクローラー"
+
+#: inc/customize/gradiant-general.php:36
+msgid "Hide / Show Background Elements"
+msgstr "背景要素の非表示/表示"
+
+#: inc/customize/gradiant-general.php:17
+msgid "Background Elements"
+msgstr "背景の要素"
+
+#: inc/customize/gradiant-general.php:7
+msgid "General"
+msgstr "一般"
+
+#: inc/customize/gradiant-footer.php:295
+msgid "Margin Bottom"
+msgstr "下マージン"
+
+#: inc/customize/gradiant-footer.php:275
+msgid "Enable Parallax ?"
+msgstr "視差を有効にしますか？"
+
+#: inc/customize/gradiant-footer.php:254
+msgid "Footer Parallax"
+msgstr "フッターのパララックス"
+
+#: inc/customize/gradiant-footer.php:245 inc/customize/gradiant-general.php:220
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customize/gradiant-footer.php:228
+msgid "Enable Water Effect on Footer?"
+msgstr "フッターの水効果を有効にしますか？"
+
+#: inc/customize/gradiant-footer.php:208
+msgid "Footer Background"
+msgstr "フッター背景"
+
+#: inc/customize/gradiant-footer.php:177 inc/customize/gradiant-footer.php:197
+msgid "Widget Middle Content"
+msgstr "ウィジェットミドルコンテンツ"
+
+#: inc/customize/gradiant-footer.php:158
+msgid "Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: inc/customize/gradiant-footer.php:132
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/customize/gradiant-footer.php:125 inc/customize/gradiant-footer.php:145
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customize/gradiant-footer.php:76 inc/customize/gradiant-footer.php:102
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customize/gradiant-footer.php:54
+#: inc/customizer-repeater/class/customizer-repeater-control.php:749
+#: inc/customizer-repeater/class/customizer-repeater-control.php:817
+msgid "Image"
+msgstr "画像"
+
+#: inc/customize/gradiant-footer.php:36
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customize/gradiant-footer.php:17
+msgid "Below Footer"
+msgstr "フッターの下"
+
+#: inc/customize/gradiant-footer.php:10
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customize/gradiant-blog.php:147
+msgid "No of Posts Display"
+msgstr "投稿数を表示"
+
+#: inc/customize/gradiant-blog.php:128 inc/customize/gradiant-general.php:156
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customize/gradiant-blog.php:107
+#: inc/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Description"
+msgstr "説明"
+
+#: inc/customize/gradiant-blog.php:87
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:532
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customize/gradiant-blog.php:68 inc/customize/gradiant-header.php:12
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customize/gradiant-blog.php:49
+msgid "Hide / Show"
+msgstr "非表示 / 表示"
+
+#: inc/customize/gradiant-blog.php:29
+msgid "Setting"
+msgstr "設定"
+
+#: inc/customize/gradiant-blog.php:9
+msgid "Blog Section"
+msgstr "ブログセクション"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "おすすめプラグイン"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#: inc/customize/customizer_recommended_plugin.php:10
+msgid "Install and activate <strong>Cleverfox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "テーマのすべての機能を最大限活用するには、<strong>Cleverfox</strong> プラグインをインストールし有効化してください。"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: inc/breadcrumb/breadcrumb.php:149
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/breadcrumb/breadcrumb.php:144
+msgid "Error 404 "
+msgstr "404 エラー"
+
+#: inc/breadcrumb/breadcrumb.php:140
+msgid "Articles posted by "
+msgstr "投稿者:"
+
+#: inc/breadcrumb/breadcrumb.php:134
+msgid "Posts tagged "
+msgstr "タグ付きの投稿"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "検索結果:"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "カテゴリーのアーカイブ"
+
+#: inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "ホームページ"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:10
+msgid "footer-effect-active"
+msgstr "footer-effect-active"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:22
+msgid "Go To Home"
+msgstr "ホームへ"
+
+#: 404.php:19
+msgid "Oups! We can’t find the page you’re looking for…"
+msgstr "お探しのページが見つかりません"
+
+#: 404.php:18
+msgid "Page Not Found"
+msgstr "ページが見つかりませんでした "
+
+#: 404.php:17
+msgid "4"
+msgstr "4"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/gradiant-free/"
+msgstr "https://www.nayrathemes.com/gradiant-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
